@@ -4,8 +4,8 @@ Textured parametric surfaces in OpenSCAD
 by Johannes H. Jensen <joh@pseudoberries.com>
 https://github.com/joh/texture-surface
 
-This work is licensed under a Creative Commons Attribution 4.0 International License
-https://creativecommons.org/licenses/by/4.0/
+Copyright (c) 2022 by Johannes H. Jensen
+License: MIT, see LICENSE for more details.
 """
 from PIL import Image, ImageOps
 import numpy as np
