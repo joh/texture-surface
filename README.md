@@ -11,3 +11,5 @@ The image below illustrates the basic operation:
 <img src="images/overview.png" width="50%">
 
 To get started, see [demo.scad](demo.scad).
+
+The library requires OpenSCAD version 2021.01 or later.
