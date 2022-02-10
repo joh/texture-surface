@@ -20,8 +20,8 @@ cylinder_shape = function(u, v, p, width=100, depth=100, height=100)
  * A parametric cube
  */
 cube_shape = function(u, v, p, width=100, depth=100, height=100)
-    let (w = width + p,
-         h = depth + p,
+    let (w = width + 2*p,
+         h = depth + 2*p,
          o = u * 2 * (w + h))
     [
     (o < h/2) ? w/2 :
